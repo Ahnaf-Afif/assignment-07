@@ -1,0 +1,185 @@
+{
+  "dashboard": {
+    "title": "Friends to keep close in your life",
+    "summary": {
+      "totalFriends": 12,
+      "onTrack": 4,
+      "needAttention": 5,
+      "interactionsThisMonth": 18
+    },
+    "friends": [
+      {
+        "id": "f001",
+        "name": "David Kim",
+        "avatar": "https://i.pravatar.cc/150?img=11",
+        "relationship": "Work",
+        "lastContactDaysAgo": 28,
+        "goalDays": 21,
+        "status": "Almost Due",
+        "nextDueDate": "2026-03-18",
+        "tags": ["Work"],
+        "preferredContact": "Text"
+      },
+      {
+        "id": "f002",
+        "name": "Emma Wilson",
+        "avatar": "https://i.pravatar.cc/150?img=32",
+        "relationship": "Family",
+        "lastContactDaysAgo": 62,
+        "goalDays": 30,
+        "status": "Overdue",
+        "nextDueDate": "2026-02-27",
+        "tags": ["Family"],
+        "preferredContact": "Call"
+      },
+      {
+        "id": "f003",
+        "name": "Lisa Nakamura",
+        "avatar": "https://i.pravatar.cc/150?img=47",
+        "relationship": "Work",
+        "lastContactDaysAgo": 18,
+        "goalDays": 30,
+        "status": "On Track",
+        "nextDueDate": "2026-03-30",
+        "tags": ["Work"],
+        "preferredContact": "Video"
+      },
+      {
+        "id": "f004",
+        "name": "James Wright",
+        "avatar": "https://i.pravatar.cc/150?img=15",
+        "relationship": "Travel",
+        "lastContactDaysAgo": 12,
+        "goalDays": 20,
+        "status": "On Track",
+        "nextDueDate": "2026-03-24",
+        "tags": ["Hobby", "Travel"],
+        "preferredContact": "Text"
+      },
+      {
+        "id": "f005",
+        "name": "Sophia Martinez",
+        "avatar": "https://i.pravatar.cc/150?img=23",
+        "relationship": "Friend",
+        "lastContactDaysAgo": 41,
+        "goalDays": 30,
+        "status": "Overdue",
+        "nextDueDate": "2026-03-02",
+        "tags": ["Close Friend"],
+        "preferredContact": "Call"
+      },
+      {
+        "id": "f006",
+        "name": "Noah Johnson",
+        "avatar": "https://i.pravatar.cc/150?img=18",
+        "relationship": "Mentor",
+        "lastContactDaysAgo": 9,
+        "goalDays": 14,
+        "status": "On Track",
+        "nextDueDate": "2026-03-21",
+        "tags": ["Mentor", "Career"],
+        "preferredContact": "Video"
+      },
+      {
+        "id": "f007",
+        "name": "Olivia Chen",
+        "avatar": "https://i.pravatar.cc/150?img=45",
+        "relationship": "Friend",
+        "lastContactDaysAgo": 26,
+        "goalDays": 30,
+        "status": "On Track",
+        "nextDueDate": "2026-03-28",
+        "tags": ["College"],
+        "preferredContact": "Text"
+      },
+      {
+        "id": "f008",
+        "name": "Ethan Carter",
+        "avatar": "https://i.pravatar.cc/150?img=52",
+        "relationship": "Work",
+        "lastContactDaysAgo": 33,
+        "goalDays": 30,
+        "status": "Overdue",
+        "nextDueDate": "2026-03-10",
+        "tags": ["Work"],
+        "preferredContact": "Call"
+      },
+      {
+        "id": "f009",
+        "name": "Mia Anderson",
+        "avatar": "https://i.pravatar.cc/150?img=29",
+        "relationship": "Family",
+        "lastContactDaysAgo": 22,
+        "goalDays": 21,
+        "status": "Almost Due",
+        "nextDueDate": "2026-03-17",
+        "tags": ["Family"],
+        "preferredContact": "Text"
+      },
+      {
+        "id": "f010",
+        "name": "Liam Brown",
+        "avatar": "https://i.pravatar.cc/150?img=14",
+        "relationship": "Gym Buddy",
+        "lastContactDaysAgo": 37,
+        "goalDays": 30,
+        "status": "Overdue",
+        "nextDueDate": "2026-03-06",
+        "tags": ["Fitness", "Hobby"],
+        "preferredContact": "Text"
+      },
+      {
+        "id": "f011",
+        "name": "Ava Thompson",
+        "avatar": "https://i.pravatar.cc/150?img=36",
+        "relationship": "Neighbor",
+        "lastContactDaysAgo": 16,
+        "goalDays": 14,
+        "status": "Almost Due",
+        "nextDueDate": "2026-03-15",
+        "tags": ["Local"],
+        "preferredContact": "Call"
+      },
+      {
+        "id": "f012",
+        "name": "Benjamin Lee",
+        "avatar": "https://i.pravatar.cc/150?img=61",
+        "relationship": "Friend",
+        "lastContactDaysAgo": 48,
+        "goalDays": 30,
+        "status": "Need Attention",
+        "nextDueDate": "2026-02-25",
+        "tags": ["Close Friend"],
+        "preferredContact": "Video"
+      }
+    ]
+  },
+  "friendDetails": {
+    "id": "f002",
+    "name": "Emma Wilson",
+    "avatar": "https://i.pravatar.cc/150?img=32",
+    "relationship": "Family",
+    "status": "Overdue",
+    "headline": "Former colleague, great mentor",
+    "daysSinceContact": 62,
+    "goalDays": 30,
+    "nextDueDate": "2026-02-27",
+    "relationshipGoal": "Connect every 30 days",
+    "notes": "Emma always appreciates thoughtful check-ins. Best time to call is evenings on weekdays.",
+    "quickCheckIn": {
+      "call": "+1-202-555-0147",
+      "text": "+1-202-555-0147",
+      "video": "emma.wilson@example.com"
+    },
+    "actions": {
+      "snoozeDays": 14,
+      "archived": false,
+      "deleted": false
+    },
+    "socialLinks": {
+      "linkedin": "https://linkedin.com/in/emmawilson",
+      "facebook": "https://facebook.com/emmawilson",
+      "x": "https://x.com/emmawilson"
+    }
+  }
+}
