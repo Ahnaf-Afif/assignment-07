@@ -30,6 +30,8 @@ const Leftside = ({ friend }) => {
             {name}
           </h3>
 
+          <p>{friend.headline}</p>
+
           <p className="mt-1 text-[11px] font-medium leading-[16px] text-[#94A3B8]">
             {lastContactDaysAgo}d ago
           </p>

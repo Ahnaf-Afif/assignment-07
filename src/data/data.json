@@ -18,7 +18,26 @@
         "status": "Almost Due",
         "nextDueDate": "2026-03-18",
         "tags": ["Work"],
-        "preferredContact": "Text"
+        "preferredContact": "Text",
+        "headline": "Work friend and dependable collaborator",
+        "daysSinceContact": 28,
+        "relationshipGoal": "Connect every 21 days",
+        "notes": "David is easy to reach with a quick text and usually responds well to short check-ins about work, projects, or industry updates.",
+        "quickCheckIn": {
+          "call": "+1-202-555-0101",
+          "text": "+1-202-555-0101",
+          "video": "david.kim@example.com"
+        },
+        "actions": {
+          "snoozeDays": 14,
+          "archived": false,
+          "deleted": false
+        },
+        "socialLinks": {
+          "linkedin": "https://linkedin.com/in/davidkim",
+          "facebook": "https://facebook.com/davidkim",
+          "x": "https://x.com/davidkim"
+        }
       },
       {
         "id": "f002",
@@ -30,7 +49,26 @@
         "status": "Overdue",
         "nextDueDate": "2026-02-27",
         "tags": ["Family"],
-        "preferredContact": "Call"
+        "preferredContact": "Call",
+        "headline": "Close family connection who values regular calls",
+        "daysSinceContact": 62,
+        "relationshipGoal": "Connect every 30 days",
+        "notes": "Emma always appreciates thoughtful check-ins. Best time to call is evenings on weekdays.",
+        "quickCheckIn": {
+          "call": "+1-202-555-0147",
+          "text": "+1-202-555-0147",
+          "video": "emma.wilson@example.com"
+        },
+        "actions": {
+          "snoozeDays": 14,
+          "archived": false,
+          "deleted": false
+        },
+        "socialLinks": {
+          "linkedin": "https://linkedin.com/in/emmawilson",
+          "facebook": "https://facebook.com/emmawilson",
+          "x": "https://x.com/emmawilson"
+        }
       },
       {
         "id": "f003",
@@ -42,7 +80,26 @@
         "status": "On Track",
         "nextDueDate": "2026-03-30",
         "tags": ["Work"],
-        "preferredContact": "Video"
+        "preferredContact": "Video",
+        "headline": "Thoughtful work connection for meaningful catch-ups",
+        "daysSinceContact": 18,
+        "relationshipGoal": "Connect every 30 days",
+        "notes": "Lisa is a good fit for longer video catch-ups, especially when discussing career growth, team updates, or future plans.",
+        "quickCheckIn": {
+          "call": "+1-202-555-0103",
+          "text": "+1-202-555-0103",
+          "video": "lisa.nakamura@example.com"
+        },
+        "actions": {
+          "snoozeDays": 14,
+          "archived": false,
+          "deleted": false
+        },
+        "socialLinks": {
+          "linkedin": "https://linkedin.com/in/lisanakamura",
+          "facebook": "https://facebook.com/lisanakamura",
+          "x": "https://x.com/lisanakamura"
+        }
       },
       {
         "id": "f004",
@@ -54,7 +111,26 @@
         "status": "On Track",
         "nextDueDate": "2026-03-24",
         "tags": ["Hobby", "Travel"],
-        "preferredContact": "Text"
+        "preferredContact": "Text",
+        "headline": "Travel buddy who enjoys casual planning chats",
+        "daysSinceContact": 12,
+        "relationshipGoal": "Connect every 20 days",
+        "notes": "James is best reached by text for quick updates, weekend plans, or chatting about upcoming trips and shared hobbies.",
+        "quickCheckIn": {
+          "call": "+1-202-555-0104",
+          "text": "+1-202-555-0104",
+          "video": "james.wright@example.com"
+        },
+        "actions": {
+          "snoozeDays": 14,
+          "archived": false,
+          "deleted": false
+        },
+        "socialLinks": {
+          "linkedin": "https://linkedin.com/in/jameswright",
+          "facebook": "https://facebook.com/jameswright",
+          "x": "https://x.com/jameswright"
+        }
       },
       {
         "id": "f005",
@@ -66,7 +142,26 @@
         "status": "Overdue",
         "nextDueDate": "2026-03-02",
         "tags": ["Close Friend"],
-        "preferredContact": "Call"
+        "preferredContact": "Call",
+        "headline": "Close friend who appreciates genuine check-ins",
+        "daysSinceContact": 41,
+        "relationshipGoal": "Connect every 30 days",
+        "notes": "Sophia responds best to a warm phone call. She values personal conversations more than quick status updates.",
+        "quickCheckIn": {
+          "call": "+1-202-555-0105",
+          "text": "+1-202-555-0105",
+          "video": "sophia.martinez@example.com"
+        },
+        "actions": {
+          "snoozeDays": 14,
+          "archived": false,
+          "deleted": false
+        },
+        "socialLinks": {
+          "linkedin": "https://linkedin.com/in/sophiamartinez",
+          "facebook": "https://facebook.com/sophiamartinez",
+          "x": "https://x.com/sophiamartinez"
+        }
       },
       {
         "id": "f006",
@@ -78,7 +173,26 @@
         "status": "On Track",
         "nextDueDate": "2026-03-21",
         "tags": ["Mentor", "Career"],
-        "preferredContact": "Video"
+        "preferredContact": "Video",
+        "headline": "Mentor connection for career guidance and perspective",
+        "daysSinceContact": 9,
+        "relationshipGoal": "Connect every 14 days",
+        "notes": "Noah is ideal for scheduled video conversations. He usually gives the best guidance when there is time for a focused discussion.",
+        "quickCheckIn": {
+          "call": "+1-202-555-0106",
+          "text": "+1-202-555-0106",
+          "video": "noah.johnson@example.com"
+        },
+        "actions": {
+          "snoozeDays": 14,
+          "archived": false,
+          "deleted": false
+        },
+        "socialLinks": {
+          "linkedin": "https://linkedin.com/in/noahjohnson",
+          "facebook": "https://facebook.com/noahjohnson",
+          "x": "https://x.com/noahjohnson"
+        }
       },
       {
         "id": "f007",
@@ -90,7 +204,26 @@
         "status": "On Track",
         "nextDueDate": "2026-03-28",
         "tags": ["College"],
-        "preferredContact": "Text"
+        "preferredContact": "Text",
+        "headline": "College friend who is easy to reconnect with",
+        "daysSinceContact": 26,
+        "relationshipGoal": "Connect every 30 days",
+        "notes": "Olivia is usually quick to reply to texts and enjoys light catch-ups about life updates, memories, and plans.",
+        "quickCheckIn": {
+          "call": "+1-202-555-0107",
+          "text": "+1-202-555-0107",
+          "video": "olivia.chen@example.com"
+        },
+        "actions": {
+          "snoozeDays": 14,
+          "archived": false,
+          "deleted": false
+        },
+        "socialLinks": {
+          "linkedin": "https://linkedin.com/in/oliviachen",
+          "facebook": "https://facebook.com/oliviachen",
+          "x": "https://x.com/oliviachen"
+        }
       },
       {
         "id": "f008",
@@ -102,7 +235,26 @@
         "status": "Overdue",
         "nextDueDate": "2026-03-10",
         "tags": ["Work"],
-        "preferredContact": "Call"
+        "preferredContact": "Call",
+        "headline": "Professional contact worth keeping warm",
+        "daysSinceContact": 33,
+        "relationshipGoal": "Connect every 30 days",
+        "notes": "Ethan is a good call contact for quick professional check-ins, collaboration ideas, or staying current on work matters.",
+        "quickCheckIn": {
+          "call": "+1-202-555-0108",
+          "text": "+1-202-555-0108",
+          "video": "ethan.carter@example.com"
+        },
+        "actions": {
+          "snoozeDays": 14,
+          "archived": false,
+          "deleted": false
+        },
+        "socialLinks": {
+          "linkedin": "https://linkedin.com/in/ethancarter",
+          "facebook": "https://facebook.com/ethancarter",
+          "x": "https://x.com/ethancarter"
+        }
       },
       {
         "id": "f009",
@@ -114,7 +266,26 @@
         "status": "Almost Due",
         "nextDueDate": "2026-03-17",
         "tags": ["Family"],
-        "preferredContact": "Text"
+        "preferredContact": "Text",
+        "headline": "Family connection who appreciates simple check-ins",
+        "daysSinceContact": 22,
+        "relationshipGoal": "Connect every 21 days",
+        "notes": "Mia is easy to keep in touch with through text. Short, thoughtful messages tend to work well for staying connected.",
+        "quickCheckIn": {
+          "call": "+1-202-555-0109",
+          "text": "+1-202-555-0109",
+          "video": "mia.anderson@example.com"
+        },
+        "actions": {
+          "snoozeDays": 14,
+          "archived": false,
+          "deleted": false
+        },
+        "socialLinks": {
+          "linkedin": "https://linkedin.com/in/miaanderson",
+          "facebook": "https://facebook.com/miaanderson",
+          "x": "https://x.com/miaanderson"
+        }
       },
       {
         "id": "f010",
@@ -126,7 +297,26 @@
         "status": "Overdue",
         "nextDueDate": "2026-03-06",
         "tags": ["Fitness", "Hobby"],
-        "preferredContact": "Text"
+        "preferredContact": "Text",
+        "headline": "Fitness friend for casual motivation and updates",
+        "daysSinceContact": 37,
+        "relationshipGoal": "Connect every 30 days",
+        "notes": "Liam responds well to a quick text about workouts, routines, or making plans to meet up around fitness goals.",
+        "quickCheckIn": {
+          "call": "+1-202-555-0110",
+          "text": "+1-202-555-0110",
+          "video": "liam.brown@example.com"
+        },
+        "actions": {
+          "snoozeDays": 14,
+          "archived": false,
+          "deleted": false
+        },
+        "socialLinks": {
+          "linkedin": "https://linkedin.com/in/liambrown",
+          "facebook": "https://facebook.com/liambrown",
+          "x": "https://x.com/liambrown"
+        }
       },
       {
         "id": "f011",
@@ -138,7 +328,26 @@
         "status": "Almost Due",
         "nextDueDate": "2026-03-15",
         "tags": ["Local"],
-        "preferredContact": "Call"
+        "preferredContact": "Call",
+        "headline": "Nearby connection for local and everyday catch-ups",
+        "daysSinceContact": 16,
+        "relationshipGoal": "Connect every 14 days",
+        "notes": "Ava is usually best reached by call when checking in about neighborhood updates, shared errands, or local plans.",
+        "quickCheckIn": {
+          "call": "+1-202-555-0111",
+          "text": "+1-202-555-0111",
+          "video": "ava.thompson@example.com"
+        },
+        "actions": {
+          "snoozeDays": 14,
+          "archived": false,
+          "deleted": false
+        },
+        "socialLinks": {
+          "linkedin": "https://linkedin.com/in/avathompson",
+          "facebook": "https://facebook.com/avathompson",
+          "x": "https://x.com/avathompson"
+        }
       },
       {
         "id": "f012",
@@ -150,36 +359,27 @@
         "status": "Need Attention",
         "nextDueDate": "2026-02-25",
         "tags": ["Close Friend"],
-        "preferredContact": "Video"
+        "preferredContact": "Video",
+        "headline": "Close friend who should be prioritized soon",
+        "daysSinceContact": 48,
+        "relationshipGoal": "Connect every 30 days",
+        "notes": "Benjamin is a strong candidate for a meaningful video catch-up. A longer conversation would help rebuild momentum in the friendship.",
+        "quickCheckIn": {
+          "call": "+1-202-555-0112",
+          "text": "+1-202-555-0112",
+          "video": "benjamin.lee@example.com"
+        },
+        "actions": {
+          "snoozeDays": 14,
+          "archived": false,
+          "deleted": false
+        },
+        "socialLinks": {
+          "linkedin": "https://linkedin.com/in/benjaminlee",
+          "facebook": "https://facebook.com/benjaminlee",
+          "x": "https://x.com/benjaminlee"
+        }
       }
     ]
-  },
-  "friendDetails": {
-    "id": "f002",
-    "name": "Emma Wilson",
-    "avatar": "https://i.pravatar.cc/150?img=32",
-    "relationship": "Family",
-    "status": "Overdue",
-    "headline": "Former colleague, great mentor",
-    "daysSinceContact": 62,
-    "goalDays": 30,
-    "nextDueDate": "2026-02-27",
-    "relationshipGoal": "Connect every 30 days",
-    "notes": "Emma always appreciates thoughtful check-ins. Best time to call is evenings on weekdays.",
-    "quickCheckIn": {
-      "call": "+1-202-555-0147",
-      "text": "+1-202-555-0147",
-      "video": "emma.wilson@example.com"
-    },
-    "actions": {
-      "snoozeDays": 14,
-      "archived": false,
-      "deleted": false
-    },
-    "socialLinks": {
-      "linkedin": "https://linkedin.com/in/emmawilson",
-      "facebook": "https://facebook.com/emmawilson",
-      "x": "https://x.com/emmawilson"
-    }
   }
 }
