@@ -14,7 +14,7 @@ const CardUi = ({ friend }) => {
   const { name, avatar, lastContactDaysAgo, tags = [], status } = friend;
 
   return (
-    <div className="w-full max-w-[182px] rounded-[12px] border border-[#E9E9E9] bg-white px-6 py-4 ]">
+    <div className="w-full max-w-[182px] rounded-[12px] border border-[#E9E9E9] bg-white px-6 py-4 cursor-pointer">
       <div className="flex flex-col items-center text-center">
         <img
           src={avatar}
