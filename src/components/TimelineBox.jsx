@@ -9,9 +9,13 @@ export default function TimelineBox() {
   return (
     <div>
       <h1>Timeline</h1>
-      <p>Name: {message.name}</p>
-      <p>Type: {message.type}</p>
-      <p>Contact: {message.contact}</p>
+      {message.map((item, index) => (
+        <div key={index}>
+          <p>Name: {item.name}</p>
+          <p>Type: {item.type}</p>
+          <p>Contact: {item.contact}</p>
+        </div>
+      ))}
     </div>
   );
 }

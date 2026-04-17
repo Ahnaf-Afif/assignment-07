@@ -63,11 +63,14 @@ export default function Leftside({ friend }) {
       contact = friend.quickCheckIn?.video;
     }
 
-    setMessage({
-      name: friend.name,
-      type: actionLabel,
-      contact: contact,
-    });
+    setMessage((prev) => [
+      ...prev,
+      {
+        name: friend.name,
+        type: actionLabel,
+        contact: contact,
+      },
+    ]);
   }
 
   const stats = [
