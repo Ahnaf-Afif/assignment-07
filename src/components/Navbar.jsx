@@ -19,7 +19,7 @@ const Navbar = () => {
                 <Link href="/">Home</Link>
               </li>
               <li>
-                <button>Timeline</button>
+                <Link href="/Timeline">Timeline</Link>
               </li>
               <li>
                 <button>Stats</button>

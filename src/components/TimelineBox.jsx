@@ -3,13 +3,15 @@
 import { useContext } from "react";
 import { Message_data } from "@/context/context";
 
-export default function page() {
-  const { message, setMessage } = useContext(Message_data);
+export default function TimelineBox() {
+  const { message } = useContext(Message_data);
 
   return (
     <div>
       <h1>Timeline</h1>
-      <p>{message.name}</p>
+      <p>Name: {message.name}</p>
+      <p>Type: {message.type}</p>
+      <p>Contact: {message.contact}</p>
     </div>
   );
 }
