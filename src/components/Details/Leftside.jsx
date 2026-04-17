@@ -1,3 +1,9 @@
+"use client";
+
+import { useContext } from "react";
+import { useRouter } from "next/navigation";
+import { Message_data } from "@/context/context";
+
 import React from "react";
 import {
   Archive,
@@ -45,6 +51,16 @@ function SideButton({ icon: Icon, label, danger = false }) {
 
 export default function Leftside({ friend }) {
   const { tags = [], daysSinceContact } = friend;
+  const { setMessage } = useContext(Message_data);
+  const router = useRouter();
+
+  function sendData() {
+    setMessage({
+      name: friend.name,
+      type: "Text",
+      contact: friend.quickCheckIn?.text,
+    });
+  }
 
   const stats = [
     { value: friend.daysSinceContact, label: "Days Since Contact" },
@@ -153,6 +169,7 @@ export default function Leftside({ friend }) {
                   return (
                     <button
                       key={action.label}
+                      onClick={() => sendData()}
                       className="flex min-h-[110px] flex-col items-center justify-center rounded-2xl border border-slate-200 bg-slate-50 text-slate-600 transition hover:bg-slate-100"
                     >
                       <Icon className="mb-3 h-6 w-6" />

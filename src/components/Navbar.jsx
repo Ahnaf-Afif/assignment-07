@@ -1,3 +1,7 @@
+// import Link from "daisyui/components/link";
+
+import Link from "next/link";
+
 const Navbar = () => {
   return (
     <div>
@@ -12,7 +16,7 @@ const Navbar = () => {
           <ul className="menu menu-horizontal px-1">
             <div className="hidden md:flex ">
               <li>
-                <button>Home</button>
+                <Link href="/">Home</Link>
               </li>
               <li>
                 <button>Timeline</button>
@@ -26,7 +30,7 @@ const Navbar = () => {
                 <summary>Pages</summary>
                 <ul className="bg-base-100 rounded-t-none p-2">
                   <li>
-                    <a>Home</a>
+                    <Link href="/">Home</Link>
                   </li>
                   <li>
                     <a>Timeline</a>

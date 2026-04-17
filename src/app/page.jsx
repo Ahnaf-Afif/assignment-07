@@ -1,6 +1,14 @@
-import Image from "next/image";
-import Navbar from "@/components/Navbar";
+import HomeHero from "@/components/HomeHero";
+import HomeHeroCards from "@/components/HomeHeroCards";
+import Context from "../context/context";
 
-export default function Home() {
-  return <main></main>;
-}
+const page = ({ Component, pageProps }) => {
+  return (
+    <div>
+      <HomeHero></HomeHero>
+      <HomeHeroCards></HomeHeroCards>
+    </div>
+  );
+};
+
+export default page;
